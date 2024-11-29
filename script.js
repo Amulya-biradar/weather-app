@@ -49,5 +49,5 @@ document
     }
   });
 
-weather.fetchWeather("Athlone");
+weather.fetchWeather("delhi");
 
